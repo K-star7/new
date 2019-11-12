@@ -3,8 +3,7 @@
             "age":33,
             "status":"engaged",
             "adress":{"street":"Garyna",
-                       "building":10,
-                       "room":5}
+                       "building":10}
             }
           }
 }# json_test
